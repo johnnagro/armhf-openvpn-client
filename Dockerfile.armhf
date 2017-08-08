@@ -1,5 +1,5 @@
 FROM armhf/debian:stretch
-MAINTAINER John Nagro <john.nagro@gmail.com>
+MAINTAINER David Personette <dperson@gmail.com>
 
 # Install openvpn
 RUN export DEBIAN_FRONTEND='noninteractive' && \
